@@ -1,10 +1,3 @@
 name:aroojfatimamir6
-Name:aroojfatimamir6
-"name:aroojfatimamir6"
-"Name:AROOJ FATIMA MIR 6"
-"Name:AROOJ FATIMA MIR 6"
-"Name:AROOJFATIMAMIR6"
-"Name:AROOJFATIMAMIR6"
-"Name:AROOJFATIMAMIR6"
-"Name:AROOJFATIMAMIR6"
-"Name:AROOJFATIMAMIR6"
+Email:"fatimamirarooj@gmail.com"
+FACULTY OF  INFORMATION TECHNOLOGY"
